@@ -1,0 +1,9 @@
+.head-section{
+    background-image: linear-gradient(180deg, rgb(196, 182, 253), rgb(147, 172, 252));
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.collapse{ 
+    font-size: 20px;
+}
